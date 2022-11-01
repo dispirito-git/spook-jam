@@ -28,6 +28,10 @@ public class playerWalk : MonoBehaviour
         _IsWalking = _isPlayerWalking(_MoveInputH);
     }
 
+    
+    /*
+     * Determines if player is walking based on horizontal user input.
+     */
     private bool _isPlayerWalking(float moveInputH)
     {
         return moveInputH != 0f;
