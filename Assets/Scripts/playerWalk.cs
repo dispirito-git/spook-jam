@@ -14,6 +14,8 @@ public class playerWalk : MonoBehaviour
     private bool _IsWalking;
 
     private Animator animator;
+
+    private bool isLeft;
     
     
     
@@ -23,16 +25,17 @@ public class playerWalk : MonoBehaviour
         _RigidBody = GetComponent<Rigidbody2D>();
         _IsWalking = false;
         animator = GetComponent<Animator>();
+        isLeft = false;
     }
 
     // Update is called once per frame
     void Update()
     {
+        checkFlip();
         _IsWalking = _isPlayerWalking(_MoveInputH);
          animator.SetBool("walking",_IsWalking);
          _MoveInputH = Input.GetAxisRaw("Horizontal");
-        _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on input
-        //gameObject.transform.localScale.x = -1;
+        _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on inpu
     }
 
     
@@ -44,6 +47,24 @@ public class playerWalk : MonoBehaviour
         // return Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.RightArrow);
         return moveInputH != 0f;
     }
-    
+
+    private void checkFlip()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftArrow) && !isLeft)
+        {
+            Vector3 newScale = transform.localScale;
+            newScale.x *= -1;
+            transform.localScale = newScale;
+            isLeft = true;
+        }
+
+        if (Input.GetKeyDown(KeyCode.RightArrow) && isLeft)
+        {
+            Vector3 newScale = transform.localScale;
+            newScale.x *= -1;
+            transform.localScale = newScale;
+            isLeft = false;
+        }
+    }
 
 }
