@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 82d00881c24b27c46b0bebeadd161298
+guid: c88bf00b4bb71b34faf072558bfe9d9b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -104,18 +104,6 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -129,6 +117,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -167,13 +167,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: closet
+      name: PipeEndEmpty
       rect:
         serializedVersion: 2
-        x: 235
-        y: 0
-        width: 24
-        height: 30
+        x: 13
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7ba7da6e598dbc4b8046d2befd16d2d
-      internalID: -669517067
+      spriteID: 6f89910fe1238be4dbfa3ed5b0eb9ae7
+      internalID: 1584000562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: missing bookcase
+      name: PipeEndFull
       rect:
         serializedVersion: 2
-        x: 280
-        y: 0
-        width: 23
-        height: 30
+        x: 88
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50d63555b4ab07b48bc23e8252d187cf
-      internalID: 645560663
+      spriteID: 30482f1093daaf449a00a04a543e27bc
+      internalID: 2080980518
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: complete bookcase
+      name: Pipeless
       rect:
         serializedVersion: 2
-        x: 325
-        y: 0
-        width: 23
-        height: 30
+        x: 163
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11849cb4e2cafe34089f3da5d60964da
-      internalID: -714188282
+      spriteID: 0c65f6a30b4bec4449e22d59b02eb17c
+      internalID: 209255391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: clock
+      name: PipeEmpty
       rect:
         serializedVersion: 2
-        x: 423
-        y: 22
-        width: 11
-        height: 11
+        x: 238
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f449f8d681febd14f83dfd55524cf634
-      internalID: 1028689077
+      spriteID: 0491d5fcc53b613479e6fde1ac4a3e1d
+      internalID: -2088518155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Window
+      name: PipeFull
       rect:
         serializedVersion: 2
-        x: 548
-        y: 17
-        width: 29
-        height: 19
+        x: 313
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f5cc57806154a24882805a8db448b15
-      internalID: -1054849427
+      spriteID: b8e68981b9f4d8d41bed1f8b134be9da
+      internalID: -1517009024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: broken window
+      name: circuit puzzle_5
       rect:
         serializedVersion: 2
-        x: 593
-        y: 17
-        width: 29
-        height: 19
+        x: 388
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f541e9e89afe1434882a73557a30bc77
-      internalID: -918831787
+      spriteID: eaab03c112b4e7140871cce45ee2e403
+      internalID: -822586006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: painting
+      name: circuit puzzle_6
       rect:
         serializedVersion: 2
-        x: 642
-        y: 15
-        width: 21
-        height: 21
+        x: 463
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcfdc66594aacf44792e880ae690fb0d
-      internalID: 596613995
+      spriteID: 7e88b0aa952e4c54b90011ed963902da
+      internalID: 646766084
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: painting with eyes
+      name: circuit puzzle_7
       rect:
         serializedVersion: 2
-        x: 687
-        y: 15
-        width: 21
-        height: 21
+        x: 538
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c934d99e7cb64c846830a32a7f2afcdf
-      internalID: -756944030
+      spriteID: fdbfb8b8b9dc59744aa6448d3ba2d4df
+      internalID: -791929297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chimney
+      name: circuit puzzle_8
       rect:
         serializedVersion: 2
-        x: 774
-        y: 0
-        width: 26
-        height: 45
+        x: 613
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 542f725a635ac5948bc4f60ef1bfb4dd
-      internalID: 577746632
+      spriteID: eefa1b17edf6f94469bcdde93091b436
+      internalID: 340792741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bloody bed
+      name: PiprCornerEmpty
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 28
-        height: 16
+        x: 688
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +370,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41385fdb87016644fb5e63510112816a
-      internalID: -414935353
+      spriteID: e52622ecc5c66b24e9c2693b54013476
+      internalID: -1169021287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: bed
+      name: PipeCornerFull
       rect:
         serializedVersion: 2
-        x: 53
-        y: 0
-        width: 28
-        height: 16
+        x: 763
+        y: 25
+        width: 50
+        height: 50
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,176 +391,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca79dc5bc97158141accd1518d033b75
-      internalID: -1658106795
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: chair
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 0
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3bb4d83bb458c144a9091a2b6fbb942a
-      internalID: -1551728696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kitchen table
-      rect:
-        serializedVersion: 2
-        x: 142
-        y: 0
-        width: 30
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5b46612aa68606747ab8d72bd73ad849
-      internalID: -1114730075
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawers with books
-      rect:
-        serializedVersion: 2
-        x: 504
-        y: 0
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d6f7ce7e3d10e84cad882d9199850f9
-      internalID: -424395349
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: drawers
-      rect:
-        serializedVersion: 2
-        x: 195
-        y: 0
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1516a7b960784b4e817b76307f2ea8d
-      internalID: -14985543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: oven
-      rect:
-        serializedVersion: 2
-        x: 373
-        y: 0
-        width: 19
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 55e53f7989badbd4d8fe88a3dc450b8d
-      internalID: 806946197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: small drawers
-      rect:
-        serializedVersion: 2
-        x: 459
-        y: 0
-        width: 27
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf0c5e54c59311e4aadcb1a32407d5e3
-      internalID: 437249776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: table with things
-      rect:
-        serializedVersion: 2
-        x: 731
-        y: 0
-        width: 23
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfe452a2b4fbd16468fbaa43a4a8a1e4
-      internalID: -458013264
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: couch
-      rect:
-        serializedVersion: 2
-        x: 815
-        y: 0
-        width: 35
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b2d0d2a4861967468b700fe3ffb733e
-      internalID: 661791753
+      spriteID: 7a913b458038d6144afc9410c4567663
+      internalID: -73819109
       vertices: []
       indices: 
       edges: []
@@ -568,7 +400,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d0ff732629eff244dac41087667c2b1b
+    spriteID: b7651cca053901b4fb9fedde72572fac
     internalID: 0
     vertices: []
     indices: 
@@ -576,28 +408,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      painting: 596613995
-      bed: -1658106795
-      chair: -1551728696
-      kitchen table: -1114730075
-      Window: -1054849427
-      small drawers: 437249776
-      furniture_14: -948701357
-      drawers: -14985543
-      closet: -669517067
-      missing bookcase: 645560663
-      complete bookcase: -714188282
-      drawers with books: -424395349
-      chimney: 577746632
-      broken window: -918831787
-      furniture_3: 563705756
-      couch: 661791753
-      bloody bed: -414935353
-      painting with eyes: -756944030
-      table with things: -458013264
-      clock: 1028689077
-      furniture_0: 2013895978
-      oven: 806946197
+      PipeFull: -1517009024
+      PipeEndEmpty: 1584000562
+      circuit puzzle_5: -822586006
+      Pipeless: 209255391
+      PiprCornerEmpty: -1169021287
+      circuit puzzle_8: 340792741
+      PipeEmpty: -2088518155
+      circuit puzzle_6: 646766084
+      PipeCornerFull: -73819109
+      circuit puzzle_7: -791929297
+      PipeEndFull: 2080980518
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
