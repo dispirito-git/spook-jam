@@ -64,3 +64,216 @@
 2022-11-09 21:07:55.6101 [DEBUG] Scene Fusion version 1.9.3-0
 2022-11-09 21:07:55.7027 [DEBUG] Play mode: True, sync in play mode: False
 2022-11-09 21:08:52.7751 [DEBUG] Play mode: False
+2022-11-09 21:48:37.0978 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 21:48:39.9489 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 21:48:45.7685 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 21:48:45.8475 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 21:49:15.4090 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 21:49:42.1205 [DEBUG] Play mode: False
+2022-11-09 22:30:23.8726 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:33:04.6572 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:33:18.1794 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:33:18.2904 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:33:51.5620 [DEBUG] Play mode: False
+2022-11-09 22:35:42.7134 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:35:54.2698 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:35:54.3473 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:36:15.8398 [DEBUG] Play mode: False
+2022-11-09 22:37:41.0274 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:37:53.0382 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 22:37:57.7703 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:38:06.8192 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:38:06.8968 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:38:30.2063 [ERROR] UnassignedReferenceException: The variable noteBox1 of Note has not been assigned.
+You probably need to assign the noteBox1 variable of the Note script in the inspector.
+UnityEngine.GameObject.GetComponentInChildren[T] (System.Boolean includeInactive) (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.GameObject.GetComponentInChildren[T] () (at <59e7be63019b4518baaf30c245954236>:0)
+Note.Update () (at Assets/Note.cs:38)
+
+2022-11-09 22:38:31.0725 [ERROR] UnassignedReferenceException: The variable noteBox1 of Note has not been assigned.
+You probably need to assign the noteBox1 variable of the Note script in the inspector.
+UnityEngine.GameObject.GetComponentInChildren[T] (System.Boolean includeInactive) (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.GameObject.GetComponentInChildren[T] () (at <59e7be63019b4518baaf30c245954236>:0)
+Note.Update () (at Assets/Note.cs:38)
+
+2022-11-09 22:38:42.4316 [ERROR] UnassignedReferenceException: The variable noteBox1 of Note has not been assigned.
+You probably need to assign the noteBox1 variable of the Note script in the inspector.
+UnityEngine.GameObject.GetComponentInChildren[T] (System.Boolean includeInactive) (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.GameObject.GetComponentInChildren[T] () (at <59e7be63019b4518baaf30c245954236>:0)
+Note.Update () (at Assets/Note.cs:38)
+
+2022-11-09 22:39:39.5848 [ERROR] UnassignedReferenceException: The variable noteBox1 of Note has not been assigned.
+You probably need to assign the noteBox1 variable of the Note script in the inspector.
+UnityEngine.GameObject.GetComponentInChildren[T] (System.Boolean includeInactive) (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.GameObject.GetComponentInChildren[T] () (at <59e7be63019b4518baaf30c245954236>:0)
+Note.Update () (at Assets/Note.cs:38)
+
+2022-11-09 22:39:40.6486 [ERROR] UnassignedReferenceException: The variable noteBox1 of Note has not been assigned.
+You probably need to assign the noteBox1 variable of the Note script in the inspector.
+UnityEngine.GameObject.GetComponentInChildren[T] (System.Boolean includeInactive) (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.GameObject.GetComponentInChildren[T] () (at <59e7be63019b4518baaf30c245954236>:0)
+Note.Update () (at Assets/Note.cs:38)
+
+2022-11-09 22:40:30.6245 [DEBUG] Play mode: False
+2022-11-09 22:50:31.7072 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:50:37.4510 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 22:50:43.6507 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:50:43.7362 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:51:22.5491 [DEBUG] Play mode: False
+2022-11-09 22:52:05.9134 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:52:09.1695 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 22:52:15.2833 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:52:15.3648 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:52:23.2966 [DEBUG] Play mode: False
+2022-11-09 22:53:13.4422 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 22:53:13.5323 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 22:53:34.4384 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:39)
+
+2022-11-09 22:53:49.0331 [DEBUG] Play mode: False
+2022-11-09 23:05:13.6546 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:05:17.5971 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 23:05:23.9954 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:05:24.0793 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:05:49.6137 [DEBUG] Play mode: False
+2022-11-09 23:06:40.9793 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:06:51.3339 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:06:51.4099 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:07:10.8597 [DEBUG] Play mode: False
+2022-11-09 23:08:28.5231 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:08:42.2144 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 23:08:48.3909 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:08:48.4804 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:09:32.1908 [DEBUG] Play mode: False
+2022-11-09 23:09:57.5974 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:15:03.2248 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:15:03.3237 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:15:33.6265 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:15:34.4056 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:15:37.2219 [DEBUG] Play mode: False
+2022-11-09 23:16:14.4679 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:16:40.2318 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:16:40.3228 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:17:28.2067 [DEBUG] Play mode: False
+2022-11-09 23:18:11.2179 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:18:11.3120 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:18:25.8705 [DEBUG] Play mode: False
+2022-11-09 23:23:36.3922 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:23:52.1351 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 23:23:59.6223 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:23:59.7010 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:25:30.6103 [DEBUG] Play mode: False
+2022-11-09 23:26:47.3329 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:26:47.4108 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:28:13.9379 [DEBUG] Play mode: False
+2022-11-09 23:28:37.5747 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:28:37.7531 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:29:42.0735 [DEBUG] Play mode: False
+2022-11-09 23:29:50.4361 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:29:50.5867 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:31:14.1214 [DEBUG] Play mode: False
+2022-11-09 23:31:22.6114 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:31:22.6971 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:31:50.4075 [DEBUG] Play mode: False
+2022-11-09 23:32:50.3751 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:32:55.8595 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 23:33:03.0267 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:33:03.1109 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:34:38.8787 [DEBUG] Play mode: False
+2022-11-09 23:35:38.6542 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:35:38.7565 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:37:03.6950 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:37:06.7707 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:37:07.6041 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:37:11.9071 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:37:14.2046 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+Note.Update () (at Assets/Note.cs:40)
+
+2022-11-09 23:37:48.8148 [DEBUG] Play mode: False
+2022-11-09 23:38:33.2004 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:38:44.3199 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:38:44.3968 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:39:16.5925 [DEBUG] Play mode: False
+2022-11-09 23:40:34.0710 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:40:37.8430 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-09 23:40:45.2951 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:40:45.3942 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:42:08.2260 [DEBUG] Play mode: False
+2022-11-09 23:42:50.8774 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:42:50.9969 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:43:15.0271 [DEBUG] Play mode: False
+2022-11-09 23:43:57.0421 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:43:57.2069 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:47:31.9562 [DEBUG] Play mode: False
+2022-11-09 23:47:51.7057 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:47:51.7909 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:48:15.4975 [DEBUG] Play mode: False
+2022-11-09 23:48:46.3815 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-09 23:48:46.4933 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-09 23:49:02.9871 [DEBUG] Play mode: False
