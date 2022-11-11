@@ -4,6 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using Random = System.Random;
 
 public class Note : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class Note : MonoBehaviour
     GameObject noteBox1;
     public string text;
     public string text1;
+    
+    private Random rand = new Random();
+
     // Start is called before the first frame update
     void Start()
     {
@@ -25,6 +29,7 @@ public class Note : MonoBehaviour
         }
     }
     Vector3 worldPosition;
+
     int thres = 40;
     // Update is called once per frame
     void Update()
@@ -46,6 +51,9 @@ public class Note : MonoBehaviour
                 noteBox1.SetActive(!noteBox.activeSelf);
             }
             
+            GameObject p = GameObject.FindGameObjectWithTag("Player");
+            GetComponent<AudioSource>().pitch = ((float)(rand.NextDouble() * 0.4f) + 0.8f);
+            p.GetComponent<AudioSource>().PlayOneShot(p.GetComponent<PlayerTeleport>().paper);
             Debug.Log("AAAAAA");
         }
     }

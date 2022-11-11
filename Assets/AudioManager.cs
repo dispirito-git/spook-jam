@@ -3,10 +3,10 @@ using UnityEngine;
  
  
  
-public class MusicPlayer : MonoBehaviour {
+public class AudioManager : MonoBehaviour {
  
     public AudioClip nextMusic; // drag the next music here in the Inspector
-    public AudioSource audioObject; // drag the music player here or...
+    private AudioSource audioObject; // drag the music player here or...
  
     void Start()
     { // find it at Start:
@@ -14,7 +14,7 @@ public class MusicPlayer : MonoBehaviour {
         audioObject = gameObject.GetComponent<AudioSource>();
     }
  
-    void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerExit2D(Collider2D other)
     {
         if (other.tag == "Player")
         { // only an object tagged Player stops the sound
@@ -23,9 +23,7 @@ public class MusicPlayer : MonoBehaviour {
         }
     }
  
-    void OnTriggerExit2D(Collider2D other)
-        //use ontriggerexit 2D instead of no 2D because of collider
-   
+    void OnTriggerEnter2D(Collider2D other)
     {
         if (other.tag == "Player")
         { // only an object tagged Player restarts the sound
