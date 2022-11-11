@@ -5,6 +5,13 @@ using UnityEngine;
 
 public class updateBigDoor : MonoBehaviour
 {
+    public GameObject r0;
+    //public GameObject r1;
+    //public GameObject r2;
+    //public GameObject r3;
+    //public GameObject r4;
+
+
     //to represent num of runes we have
     [SerializeField] private int numOfRunes;
 
@@ -21,6 +28,11 @@ public class updateBigDoor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!r0.activeSelf)
+        {
+            numOfRunes++;
+        }
+
         switch (numOfRunes)
         {
             case 0:
