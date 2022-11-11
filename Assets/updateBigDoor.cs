@@ -1,12 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public class updateBigDoor : MonoBehaviour
 {
     public GameObject r0;
-    //public GameObject r1;
+    public GameObject r1;
+    private bool rs = true;
+    private bool r1s = true;
     //public GameObject r2;
     //public GameObject r3;
     //public GameObject r4;
@@ -28,9 +30,15 @@ public class updateBigDoor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!r0.activeSelf)
+        if (!r0.activeSelf && rs)
         {
             numOfRunes++;
+            rs = !rs;
+        }
+        if (!r1.activeSelf && r1s)
+        {
+            numOfRunes++;
+            r1s = !r1s;
         }
 
         switch (numOfRunes)
@@ -52,6 +60,10 @@ public class updateBigDoor : MonoBehaviour
                 break;
             default:
                 break;
+        }
+        if (numOfRunes == 2)
+        {
+            Debug.Log("Unlocked");
         }
     }
 

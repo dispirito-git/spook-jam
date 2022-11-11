@@ -4,21 +4,21 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PuzzleLaunch : MonoBehaviour
+public class FirePuzzle : MonoBehaviour
 
 {
     public GameObject board;
-    private int[] answers = new int[] { 0, 0, 180, 0, 0, 0, 90, 0, 0, 180, 0, 180, 0, 0, 0, 90 };
+    private int[] answers = new int[] { 270, 0, 270, 0, 90, 270, 90, 0, 0, 0, 90, 0, 0, 90, 0, 180 };
     private static int[] current = new int[] { 0, 0, 2, 0, 0, 0, 1, 0, 0, 2, 0, 2, 0, 0, 1, 1 };
     private int[] rots = new int[] { 0, 90, 180, 270 };
     // Start is called before the first frame update
     void Start()
     {
-        for (int num = 0; num<16; num++)
+        for (int num = 0; num < 16; num++)
         {
             //board.SetActive(false);
-            GameObject temp = board.GetComponentsInChildren<SpriteRenderer>()[num+1].gameObject;
-            temp.transform.Rotate(0,0,(rots[current[num]]));
+            GameObject temp = board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject;
+            temp.transform.Rotate(0, 0, (rots[current[num]]));
 
         }
     }
@@ -39,24 +39,23 @@ public class PuzzleLaunch : MonoBehaviour
             if (hit.collider != null && hit.collider.gameObject.layer.Equals(LayerMask.NameToLayer("Puzzle")))
             {
                 GameObject temp = hit.collider.gameObject;
-                //Debug.Log(hit.collider.gameObject);
-                Debug.Log(temp.transform.eulerAngles.z);
+                Debug.Log("inm");
                 temp.transform.Rotate(0, 0, 45f);
                 int c = 0;
                 for (int num = 0; num < 16; num++)
                 {
-                    //Debug.Log(num+":");
-                    //Debug.Log(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z + "v"+ answers[num]);
+                    Debug.Log(num + ":");
+                    Debug.Log(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z + "v" + answers[num]);
                     //Debug.Log(rots[answers[num]]);
-                    if (MathF.Abs(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z - answers[num]) <49)
+                    if (MathF.Abs(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z - answers[num]) < 49)
                     {
                         c++;
                     }
                     //Debug.Log(c);
 
                 }
-                //Debug.Log(c);
-                if (c == 16)
+                Debug.Log("c"+c);
+                if (c == 14)
                 {
                     board.SetActive(false);
                 }

@@ -12716,3 +12716,476 @@ Rune.Update () (at Assets/Rune.cs:18)
 2022-11-11 14:42:45.0210 [DEBUG] Scene Fusion version 1.9.3-0
 2022-11-11 14:42:45.1173 [DEBUG] Play mode: True, sync in play mode: False
 2022-11-11 14:43:05.7162 [DEBUG] Play mode: False
+2022-11-11 14:44:58.0786 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 14:44:58.3100 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 14:45:07.7422 [DEBUG] Play mode: False
+2022-11-11 14:46:02.0509 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 14:46:02.1758 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 14:47:16.5827 [DEBUG] Play mode: False
+2022-11-11 14:47:31.9394 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 14:47:32.2701 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 14:47:34.8263 [DEBUG] Play mode: False
+2022-11-11 14:59:14.9099 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 14:59:43.5120 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 14:59:43.6217 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:01:00.7536 [DEBUG] Play mode: False
+2022-11-11 15:01:15.9726 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:01:16.4065 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:02:23.1151 [DEBUG] Play mode: False
+2022-11-11 15:02:48.1037 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:03:08.8665 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:03:09.0324 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:04:13.0072 [DEBUG] Play mode: False
+2022-11-11 15:05:57.1960 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:06:16.8686 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:06:17.3424 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:06:38.5242 [DEBUG] Play mode: False
+2022-11-11 15:25:48.4596 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:26:43.3121 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:32:28.7918 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:32:46.6483 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:32:46.7360 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:33:02.0491 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:02.4454 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:03.2757 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:03.8075 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:05.9846 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:06.4707 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:07.2207 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:07.7984 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:08.2325 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:10.1781 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:33:11.8533 [DEBUG] Play mode: False
+2022-11-11 15:34:09.4787 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:34:09.7625 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:34:24.5426 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:25.0986 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:25.4289 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:27.1771 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:30.4259 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:31.1500 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:32.0347 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:38.1319 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:38.5115 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:38.9511 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:39.9957 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:40.5730 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:40.9187 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:41.8666 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:42.1451 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:42.5127 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:42.8846 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:43.5767 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:45.3688 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:45.6402 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:47.4538 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:47.8615 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:48.1762 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:51.4930 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:59.1882 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:34:59.5605 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:00.1793 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:00.4064 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:01.7108 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:01.9611 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:03.5214 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:04.1707 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:04.6453 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:05.4425 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:10.5702 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:10.9934 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:11.3940 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:11.8296 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:12.1384 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:17.3397 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:19.6259 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:42.0691 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:43.1547 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:45.7397 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:46.9834 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:47.9236 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:35:48.4630 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:36:06.1768 [DEBUG] Play mode: False
+2022-11-11 15:36:31.4978 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:36:45.5603 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:36:45.8096 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:36:54.0399 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:36:54.8377 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:37:00.0785 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:37:51.7341 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:37:54.5884 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:37:55.4972 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:37:55.8355 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:38:28.0626 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 15:38:36.7425 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:38:43.1656 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:38:45.4544 [ERROR] UnassignedReferenceException: The variable board of FirePuzzle has not been assigned.
+You probably need to assign the board variable of the FirePuzzle script in the inspector.
+FirePuzzle.Update () (at Assets/FirePuzzle.cs:34)
+
+2022-11-11 15:38:47.7790 [DEBUG] Play mode: False
+2022-11-11 15:39:58.3340 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:39:58.4105 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:40:11.3141 [DEBUG] Play mode: False
+2022-11-11 15:40:47.0963 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:40:47.2583 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:41:22.3703 [DEBUG] Play mode: False
+2022-11-11 15:42:11.0098 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:42:26.0073 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:42:26.1768 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:42:38.8486 [DEBUG] Play mode: False
+2022-11-11 15:43:21.8786 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:43:37.9487 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:43:38.2952 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:44:47.3558 [DEBUG] Play mode: False
+2022-11-11 15:45:08.1632 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:45:28.2417 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:45:28.4261 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:45:46.0570 [DEBUG] Play mode: False
+2022-11-11 15:46:43.9484 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:46:44.0306 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:47:14.3048 [DEBUG] Play mode: False
+2022-11-11 15:47:54.5280 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:48:00.0591 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 15:48:11.2383 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:48:11.3077 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:48:50.8815 [DEBUG] Play mode: False
+2022-11-11 15:49:55.9622 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:49:58.5828 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 15:50:09.8804 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:50:10.1555 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:50:50.1948 [DEBUG] Play mode: False
+2022-11-11 15:51:35.5115 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:52:26.5731 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:52:26.8663 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:52:56.5417 [DEBUG] Play mode: False
+2022-11-11 15:53:34.1596 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:53:40.3980 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 15:53:52.0308 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:53:52.4320 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:54:57.3162 [DEBUG] Play mode: False
+2022-11-11 15:55:42.6976 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:55:58.6848 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:55:58.7647 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:56:33.7606 [DEBUG] Play mode: False
+2022-11-11 15:57:25.1186 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:57:40.3612 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:57:40.7771 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:58:05.6612 [DEBUG] Play mode: False
+2022-11-11 15:59:01.6156 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:59:15.7170 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 15:59:16.1414 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 15:59:35.3458 [DEBUG] Play mode: False
+2022-11-11 15:59:54.5079 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:00:32.6952 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:00:46.9965 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:00:47.0787 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:01:49.3035 [DEBUG] Play mode: False
+2022-11-11 16:02:13.4988 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:02:38.5398 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:02:38.6106 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:04:12.6420 [DEBUG] Play mode: False
+2022-11-11 16:06:01.0351 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:06:22.8387 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:06:38.9340 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:06:38.9739 [ERROR] UnassignedReferenceException: The variable r1 of updateBigDoor has not been assigned.
+You probably need to assign the r1 variable of the updateBigDoor script in the inspector.
+updateBigDoor.Update () (at Assets/updateBigDoor.cs:35)
+
+2022-11-11 16:06:39.0107 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:06:39.0167 [ERROR] UnassignedReferenceException: The variable r1 of updateBigDoor has not been assigned.
+You probably need to assign the r1 variable of the updateBigDoor script in the inspector.
+updateBigDoor.Update () (at Assets/updateBigDoor.cs:35)
+
+2022-11-11 16:06:39.5136 [DEBUG] Play mode: False
+2022-11-11 16:07:00.3038 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:07:00.6033 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:07:02.8868 [DEBUG] Play mode: False
+2022-11-11 16:07:33.6981 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:07:33.7799 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:07:35.1212 [DEBUG] Play mode: False
+2022-11-11 16:07:50.0295 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:07:50.1132 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:09:10.0013 [DEBUG] Play mode: False
+2022-11-11 16:09:45.1879 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:09:52.3781 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 16:10:05.8833 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:10:05.9600 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:11:18.6838 [DEBUG] Play mode: False
+2022-11-11 16:11:51.5527 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:11:58.5928 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 16:12:12.3575 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:12:12.4358 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:13:03.5547 [DEBUG] Play mode: False
+2022-11-11 16:13:22.2685 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:13:30.8220 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 16:13:44.6996 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:13:45.0413 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:14:50.7290 [DEBUG] Play mode: False
+2022-11-11 16:15:14.7750 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:15:18.2648 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 16:15:29.7049 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:15:57.6875 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:15:57.7517 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:16:33.2827 [DEBUG] Play mode: False
+2022-11-11 16:17:33.3026 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:17:33.3721 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:18:00.7171 [DEBUG] Play mode: False
+2022-11-11 16:19:22.4018 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:19:25.6678 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-11 16:19:40.1109 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:19:40.1863 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:20:44.9553 [DEBUG] Play mode: False
+2022-11-11 16:22:12.7735 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:22:41.3219 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-11 16:22:41.6918 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-11 16:23:59.6750 [DEBUG] Play mode: False
