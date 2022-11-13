@@ -7,10 +7,12 @@ public class updateBigDoor : MonoBehaviour
 {
     public GameObject r0;
     public GameObject r1;
-    private bool rs = true;
+    private bool rs= true;
     private bool r1s = true;
-    //public GameObject r2;
-    //public GameObject r3;
+    private bool r2s = true;
+    private bool r3s = true;
+    public GameObject r2;
+    public GameObject r3;
     //public GameObject r4;
 
 
@@ -40,6 +42,16 @@ public class updateBigDoor : MonoBehaviour
             numOfRunes++;
             r1s = !r1s;
         }
+        if (!r2.activeSelf && r2s)
+        {
+            numOfRunes++;
+            r2s = !r2s;
+        }
+        if (!r3.activeSelf && r3s)
+        {
+            numOfRunes++;
+            r3s = !r3s;
+        }
 
         switch (numOfRunes)
         {
@@ -61,7 +73,7 @@ public class updateBigDoor : MonoBehaviour
             default:
                 break;
         }
-        if (numOfRunes == 2)
+        if (numOfRunes == 4)
         {
             Debug.Log("Unlocked");
         }

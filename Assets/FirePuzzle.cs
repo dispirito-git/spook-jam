@@ -24,6 +24,7 @@ public class FirePuzzle : MonoBehaviour
     }
     Vector3 worldPosition;
     int thres = 400;
+    
     //Vector3 worldPositionA = Camera.main.ScreenToWorldPoint(Input.mousePosition);
     // Update is called once per frame
     void Update()
@@ -35,7 +36,7 @@ public class FirePuzzle : MonoBehaviour
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
             RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
-            Debug.Log("Meeeeee" + hit.collider);
+            Debug.Log("Meeeeee" + hit.collider.gameObject.layer.ToString());
             if (hit.collider != null && hit.collider.gameObject.layer.Equals(LayerMask.NameToLayer("Puzzle")))
             {
                 GameObject temp = hit.collider.gameObject;

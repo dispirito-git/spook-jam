@@ -9,14 +9,16 @@ public class Rune : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        //transform.gameObject.SetActive(true); ;
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (!board.activeSelf)
+       // if (!board.activeSelf && transform.gameObject.activeSelf && transform.gameObject.layer>=3)
+        if (!board.activeSelf && transform.gameObject.activeSelf && transform.GetComponent<SpriteRenderer>().sortingOrder >= 3)
         {
+            Debug.Log("Adios");
             if  (t == 0)
             {
                 t = Time.time + 1.5f;
