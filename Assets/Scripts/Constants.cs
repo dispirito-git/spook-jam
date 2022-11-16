@@ -48,6 +48,7 @@ namespace Assets.Scripts
                     return new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
                     break;
             }
+            
         }
     }
     

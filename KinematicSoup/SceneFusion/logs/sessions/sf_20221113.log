@@ -8888,3 +8888,74 @@ KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
 2022-11-13 03:00:29.0184 [DEBUG] Scene Fusion version 1.9.3-0
 2022-11-13 03:00:29.0979 [DEBUG] Play mode: True, sync in play mode: False
 2022-11-13 03:02:57.3195 [DEBUG] Play mode: False
+2022-11-13 15:48:26.2111 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 15:48:26.3498 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 15:48:48.7015 [DEBUG] Play mode: False
+2022-11-13 16:24:04.2289 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 16:24:04.3806 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 16:25:58.9652 [DEBUG] Play mode: False
+2022-11-13 18:27:08.7330 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 18:27:08.8218 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 18:28:39.8931 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 18:28:41.9617 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 18:29:18.4093 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 18:29:19.3872 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 18:33:03.5429 [DEBUG] Play mode: False
+2022-11-13 23:46:23.2768 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:51:31.3636 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:51:46.7165 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:51:46.8851 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 23:51:54.5554 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:51:58.1297 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:52:03.0747 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:52:08.2829 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:52:16.7108 [DEBUG] Play mode: False
+2022-11-13 23:52:36.7456 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:52:36.8926 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 23:52:48.4341 [DEBUG] Play mode: False
+2022-11-13 23:53:31.8928 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:53:48.2444 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-13 23:53:48.3558 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-13 23:53:57.7436 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:53:58.7885 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-13 23:54:34.1061 [DEBUG] Play mode: False

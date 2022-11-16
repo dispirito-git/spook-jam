@@ -29,14 +29,14 @@ namespace Assets.Scripts
         {
             int c = 0;
             //Debug.Log(hit.collider.gameObject);
-            Debug.Log(temp.transform.eulerAngles.z);
+            //Debug.Log(temp.transform.eulerAngles.z);
             temp.transform.Rotate(0, 0, 90f);
-
+            Debug.Log("ROtate");
             for (int num = 0; num < 16; num++)
             {
                 //Debug.Log(num+":");
                 //Debug.Log(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z + "v"+ answers[num]);
-                Debug.Log("a:" + answers[num]);
+                //Debug.Log("a:" + answers[num]);
                 if (MathF.Abs(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z - answers[num]) < 49)
                 {
                     c++;
@@ -44,10 +44,10 @@ namespace Assets.Scripts
                 //Debug.Log(c);
 
             }
-            Debug.Log(c);
+            //Debug.Log(c);
             if (c == 16)
             {
-                Debug.Log("Closed" + which);
+                //Debug.Log("Closed" + which);
                 cd = true;
                 board.SetActive(false);
                 rune.SetActive(true);
