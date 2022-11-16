@@ -1,11 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Rune : MonoBehaviour
 {
     public GameObject board;
     private static float t;
+    public UnityEvent function;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -26,6 +29,7 @@ public class Rune : MonoBehaviour
             if (Time.time > t)
             {
                 transform.gameObject.SetActive(false);
+                function.Invoke();
             }
         }
 

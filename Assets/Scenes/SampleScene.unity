@@ -270,6 +270,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   board: {fileID: 1937982848}
+  function:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1431517678}
+        m_TargetAssemblyTypeName: updateBigDoor, Assembly-CSharp
+        m_MethodName: ChangeSprite
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!212 &34248551
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -796,7 +811,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -843,6 +858,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   board: {fileID: 1258084768}
+  function:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1431517678}
+        m_TargetAssemblyTypeName: updateBigDoor, Assembly-CSharp
+        m_MethodName: ChangeSprite
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!212 &110081655
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3897,6 +3927,7 @@ GameObject:
   - component: {fileID: 559221571}
   - component: {fileID: 559221573}
   - component: {fileID: 559221574}
+  - component: {fileID: 559221575}
   m_Layer: 0
   m_Name: chimney
   m_TagString: Untagged
@@ -3999,6 +4030,32 @@ MonoBehaviour:
   board: {fileID: 1937982848}
   which: 2
   rune: {fileID: 34248549}
+--- !u!61 &559221575
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 559221570}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.04, y: 2.28}
+    newSize: {x: 2.6, y: 4.5}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.04, y: 2.28}
+  m_EdgeRadius: 0
 --- !u!1 &567084727
 GameObject:
   m_ObjectHideFlags: 0
@@ -5730,6 +5787,7 @@ GameObject:
   - component: {fileID: 739652178}
   - component: {fileID: 739652180}
   - component: {fileID: 739652181}
+  - component: {fileID: 739652182}
   m_Layer: 0
   m_Name: oven
   m_TagString: Untagged
@@ -5834,6 +5892,32 @@ MonoBehaviour:
   BarkText: {fileID: 1003314803}
   text: '*Sigh* another leak'
   thres: 100
+--- !u!61 &739652182
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 739652177}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.84, y: 1.5630469}
+    newSize: {x: 1.9, y: 3.8}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.84, y: 1.5630469}
+  m_EdgeRadius: 0
 --- !u!1 &743047165
 GameObject:
   m_ObjectHideFlags: 0
@@ -6052,13 +6136,13 @@ BoxCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 760992473}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 51.52624, y: -41.114807}
+  m_Offset: {x: 1.0050166, y: 0.59537506}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -6069,7 +6153,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 113.751564, y: 90.229614}
+  m_Size: {x: 2.4241939, y: 1.7100098}
   m_EdgeRadius: 0
 --- !u!4 &760992477
 Transform:
@@ -8779,6 +8863,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   board: {fileID: 102767158}
+  function:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1431517678}
+        m_TargetAssemblyTypeName: updateBigDoor, Assembly-CSharp
+        m_MethodName: ChangeSprite
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &1120945645
 GameObject:
   m_ObjectHideFlags: 0
@@ -10519,6 +10618,7 @@ GameObject:
   - component: {fileID: 1254550954}
   - component: {fileID: 1254550956}
   - component: {fileID: 1254550957}
+  - component: {fileID: 1254550958}
   m_Layer: 0
   m_Name: broken window
   m_TagString: Untagged
@@ -10622,6 +10722,32 @@ MonoBehaviour:
   board: {fileID: 1258084768}
   which: 1
   rune: {fileID: 110081653}
+--- !u!61 &1254550958
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1254550953}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.18, y: 0.7715039}
+    newSize: {x: 2.9, y: 1.9}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1.18, y: 0.7715039}
+  m_EdgeRadius: 0
 --- !u!1 &1257016233
 GameObject:
   m_ObjectHideFlags: 0
@@ -10765,7 +10891,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1258084769
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18196,6 +18322,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   board: {fileID: 1938073831}
+  function:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1431517678}
+        m_TargetAssemblyTypeName: updateBigDoor, Assembly-CSharp
+        m_MethodName: ChangeSprite
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1001 &2008766941
 PrefabInstance:
   m_ObjectHideFlags: 0

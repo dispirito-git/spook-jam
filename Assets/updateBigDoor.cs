@@ -32,6 +32,7 @@ public class updateBigDoor : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /*
         if (!r0.activeSelf && rs)
         {
             numOfRunes++;
@@ -72,15 +73,16 @@ public class updateBigDoor : MonoBehaviour
                 break;
             default:
                 break;
-        }
+        }*/
         if (numOfRunes == 4)
         {
             Debug.Log("Unlocked");
         }
     }
 
-    void ChangeSprite(int i)
+    public void ChangeSprite()
     {
-        spriteRenderer.sprite = spriteArray[i];
+        numOfRunes++;
+        spriteRenderer.sprite = spriteArray[numOfRunes];
     }
 }

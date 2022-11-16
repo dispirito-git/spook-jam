@@ -1,3 +1,4 @@
+using Assets.Scripts;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -11,9 +12,11 @@ public class WallEyeControls : MonoBehaviour
     public int thres = 40;
     private static bool stop = false;
     private static float t;
+    private InterObj me;
     // Start is called before the first frame update
     void Start()
     {
+        me = new InterObj(transform.gameObject);
         BarkText.SetActive(false);
     }
     Vector3 worldPosition;
@@ -31,10 +34,7 @@ public class WallEyeControls : MonoBehaviour
                 cover.SetActive(false);
             }
         }
-        Vector2 mousePos = Input.mousePosition;
-        worldPosition = Camera.main.ScreenToWorldPoint(mousePos);
-        //Debug.Log((transform.position - worldPosition).magnitude);
-        if (Input.GetMouseButtonDown(0) && Mathf.Abs((transform.position - worldPosition).magnitude) < thres && !stop)
+        if (me.isClicked() && !stop)
         {
             Debug.Log(Time.time);
             t = Time.time + 1.5f;

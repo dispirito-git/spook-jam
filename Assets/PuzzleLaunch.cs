@@ -17,9 +17,11 @@ public class PuzzleLaunch : MonoBehaviour
     private static int[] current;
     private Puzzle puzzle;
     private int[] rots = new int[] { 0, 90, 180, 270 };
+    private InterObj me;
     // Start is called before the first frame update
     void Start()
     {
+        me = new InterObj(transform.gameObject);
         rune.SetActive(true);
         Debug.Log("which:" + which);
         answers = Constants.Getanswers(which);
@@ -35,8 +37,6 @@ public class PuzzleLaunch : MonoBehaviour
 
         }
     }
-    Vector3 worldPosition;
-    int thres = 100;
     static bool cd = false;
     //Vector3 worldPositionA = Camera.main.ScreenToWorldPoint(Input.mousePosition);
     // Update is called once per frame
@@ -44,13 +44,12 @@ public class PuzzleLaunch : MonoBehaviour
     {
         int c = 0;
         Vector3 worldPositionA = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        if (Input.GetMouseButtonDown(0) && !puzzle.getCd() && Mathf.Abs((transform.position - worldPositionA).magnitude) < thres)
+        if (me.isClicked() && !puzzle.getCd())
         {
             board.SetActive(true);
             rune.GetComponent<SpriteRenderer>().sortingOrder = 4;
         }
         if (board.activeSelf && Input.GetMouseButtonDown(0)) { 
-                //orlayer = 2;
             Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);
             RaycastHit2D hit = Physics2D.Raycast(mousePos2D, Vector2.zero);
@@ -63,43 +62,10 @@ public class PuzzleLaunch : MonoBehaviour
                 Debug.Log("Huh?");
                 GameObject temp = hit.collider.gameObject;
                 puzzle.checkBoard(temp, board,rune);
-                /*
-                //Debug.Log(hit.collider.gameObject);
-                Debug.Log(temp.transform.eulerAngles.z);
-                temp.transform.Rotate(0, 0, 90f);
                
-                for (int num = 0; num < 16; num++)
-                {
-                    //Debug.Log(num+":");
-                    //Debug.Log(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z + "v"+ answers[num]);
-                    Debug.Log("a:"+answers[num]);
-                    if (MathF.Abs(board.GetComponentsInChildren<SpriteRenderer>()[num + 1].gameObject.transform.eulerAngles.z - answers[num]) <49)
-                    {
-                        c++;
-                    }
-                    //Debug.Log(c);
-
-                }
-                Debug.Log(c);
-                if (c == 16)
-                {
-                    Debug.Log("Closed"+ which);
-                    cd = true;
-                    board.SetActive(false);
-                }
-                */
-
-                //hit.collider.attachedRigidbody.AddForce(Vector2.up);
             }
         }
-        /*Vector2 mousePos = Input.mousePosition;
-        worldPosition = Camera.main.ScreenToWorldPoint(mousePos);
-        //Debug.Log((transform.position - worldPosition).magnitude);
-        if (Input.GetMouseButtonDown(0))
-        {
-            board.SetActive(true);
-            Debug.Log(worldPosition);
-        }*/
+        
 
 
     }
