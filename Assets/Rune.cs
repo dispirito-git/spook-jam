@@ -21,7 +21,7 @@ public class Rune : MonoBehaviour
        // if (!board.activeSelf && transform.gameObject.activeSelf && transform.gameObject.layer>=3)
         if (!board.activeSelf && transform.gameObject.activeSelf && transform.GetComponent<SpriteRenderer>().sortingOrder >= 3)
         {
-            Debug.Log("Adios");
+            //Debug.Log("Adios");
             if  (t == 0)
             {
                 t = Time.time + 1.5f;
@@ -30,6 +30,7 @@ public class Rune : MonoBehaviour
             {
                 transform.gameObject.SetActive(false);
                 function.Invoke();
+                t = 0;
             }
         }
 
