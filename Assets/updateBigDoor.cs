@@ -76,7 +76,7 @@ public class updateBigDoor : MonoBehaviour
         }*/
         if (numOfRunes == 4)
         {
-            Debug.Log("Unlocked");
+            //Debug.Log("Unlocked");
             transform.GetComponent<ClickBark>().enabled = false;
         }
     }

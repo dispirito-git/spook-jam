@@ -16,6 +16,8 @@ public class playerWalk : MonoBehaviour
     private Animator animator;
 
     private bool isLeft;
+
+    public GameObject board;
     
     
     
@@ -31,11 +33,14 @@ public class playerWalk : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        checkFlip();
-        _IsWalking = _isPlayerWalking(_MoveInputH);
-         animator.SetBool("walking",_IsWalking);
-         _MoveInputH = Input.GetAxisRaw("Horizontal");
-        _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on inpu
+        if (!board.activeSelf)
+        {
+            checkFlip();
+            _IsWalking = _isPlayerWalking(_MoveInputH);
+            animator.SetBool("walking", _IsWalking);
+            _MoveInputH = Input.GetAxisRaw("Horizontal");
+            _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on inpu
+        }
     }
 
     
