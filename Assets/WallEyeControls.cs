@@ -36,13 +36,17 @@ public class WallEyeControls : MonoBehaviour
         }
         if (me.isClicked() && !stop)
         {
+            stop = true;
+            cover.SetActive(true);
+            /*
             Debug.Log(Time.time);
             t = Time.time + 1.5f;
             Debug.Log("c:" + Time.time + "e:" + t);
             BarkText.GetComponent<TextMeshProUGUI>().SetText(text);
             BarkText.SetActive(!BarkText.activeSelf);
-            Debug.Log("Hehehe" + (Time.time >= t));
+            Debug.Log("Hehehe" + (Time.time >= t));*/
         }
+        /*
         if (Time.time >= t && BarkText.activeSelf)
         {
             Debug.Log("c:" + Time.time + " e:" + t);
@@ -50,6 +54,6 @@ public class WallEyeControls : MonoBehaviour
             BarkText.SetActive(false);
             cover.SetActive(true);
             stop = true;
-        }
+        }*/
     }
 }

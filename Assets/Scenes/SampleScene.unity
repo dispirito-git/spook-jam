@@ -1667,7 +1667,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '"Art..."'
-  thres: 70
+  stop: {fileID: 0}
 --- !u!61 &315180847
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3410,7 +3410,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '"How did that get there?"'
-  thres: 30
+  stop: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -5891,7 +5891,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '*Sigh* another leak'
-  thres: 100
+  stop: {fileID: 0}
 --- !u!61 &739652182
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6121,14 +6121,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 760992473}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c81649950f66a1e4fbccab3adbad309c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: I hope you know I can see you
-  thres: 100
+  stop: {fileID: 709709550}
 --- !u!61 &760992476
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12537,7 +12537,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '"Its locked, I need runes"'
-  thres: 100
+  stop: {fileID: 0}
 --- !u!114 &1431517676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12575,7 +12575,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.0023256242, y: 0.000000007450581}
+  m_Offset: {x: 0.019281894, y: -0.0000004172325}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -12586,7 +12586,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.32163095, y: 0.45}
+  m_Size: {x: 1.661263, y: 1.8328456}
   m_EdgeRadius: 0
 --- !u!114 &1431517678
 MonoBehaviour:
@@ -14080,7 +14080,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '*Sigh*'
-  thres: 40
+  stop: {fileID: 0}
 --- !u!114 &1617085264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -14945,7 +14945,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   BarkText: {fileID: 1003314803}
   text: '"Its locked, I need runes"'
-  thres: 100
+  stop: {fileID: 0}
 --- !u!114 &1692979586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17581,7 +17581,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1937982849
 SpriteRenderer:
   m_ObjectHideFlags: 0
