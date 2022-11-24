@@ -6,27 +6,28 @@ using UnityEngine;
 
 public class Maze : MonoBehaviour
 {
-    public GameObject launch;
-    private InterObj la;
+    //public GameObject launch;
+    //private InterObj la;
     public GameObject board;
     public GameObject miniPlayer;
-    public int step;
+    public float step;
     public GameObject goal;
     // Start is called before the first frame update
     void Start()
     {
-        board.SetActive(false);
-        la = new InterObj(launch.transform.gameObject);
+        board.SetActive(true);
+        //board.SetActive(false);
+       // la = new InterObj(launch.transform.gameObject);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (la.isClicked() && !board.activeSelf)
+        /*if (la.isClicked() && !board.activeSelf)
         {
             board.SetActive(true);
             transform.gameObject.GetComponent<SpriteRenderer>().sortingOrder = 14;
-        }
+        }*/
         if (board.activeSelf)
         {
             Vector2 dir = new Vector2(0, 0);

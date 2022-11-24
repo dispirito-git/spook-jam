@@ -25,8 +25,10 @@ public class updateBigDoor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        numOfRunes = 0;
+        numOfRunes = PlayerPrefs.GetInt("numRunes");
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = spriteArray[numOfRunes];
+
     }
 
     // Update is called once per frame
@@ -64,7 +66,7 @@ public class updateBigDoor : MonoBehaviour
                 break;
             case 2:
                 ChangeSprite(2);
-                break;
+                break;s
             case 3:
                 ChangeSprite(3);
                 break;
@@ -84,6 +86,8 @@ public class updateBigDoor : MonoBehaviour
     public void ChangeSprite()
     {
         numOfRunes++;
+
+        PlayerPrefs.SetInt("numRunes", numOfRunes);
         spriteRenderer.sprite = spriteArray[numOfRunes];
     }
 }

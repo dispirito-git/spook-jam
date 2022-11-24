@@ -17,7 +17,7 @@ public class playerWalk : MonoBehaviour
 
     private bool isLeft;
 
-    public GameObject board;
+    //public GameObject board;
     
     
     
@@ -33,14 +33,11 @@ public class playerWalk : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!board.activeSelf)
-        {
             checkFlip();
             _IsWalking = _isPlayerWalking(_MoveInputH);
             animator.SetBool("walking", _IsWalking);
             _MoveInputH = Input.GetAxisRaw("Horizontal");
             _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on inpu
-        }
     }
 
     
@@ -55,7 +52,7 @@ public class playerWalk : MonoBehaviour
 
     private void checkFlip()
     {
-        if (Input.GetKeyDown(KeyCode.LeftArrow) && !isLeft)
+        if ((Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A)) && !isLeft)
         {
             Vector3 newScale = transform.localScale;
             newScale.x *= -1;
@@ -63,7 +60,7 @@ public class playerWalk : MonoBehaviour
             isLeft = true;
         }
 
-        if (Input.GetKeyDown(KeyCode.RightArrow) && isLeft)
+        if ((Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D)) && isLeft)
         {
             Vector3 newScale = transform.localScale;
             newScale.x *= -1;
