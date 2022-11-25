@@ -18,9 +18,16 @@ public class PuzzleLaunch : MonoBehaviour
     private Puzzle puzzle;
     private int[] rots = new int[] { 0, 90, 180, 270 };
     private InterObj me;
+    private String PuzzleStats;
     // Start is called before the first frame update
     void Start()
     {
+        if (!PlayerPrefs.HasKey("PuzzleStats"))
+        {
+            PlayerPrefs.SetString("PuzzleStats","abc");
+        }
+        PuzzleStats = PlayerPrefs.GetString("PuzzleStats");
+        
         me = new InterObj(transform.gameObject);
         rune.SetActive(true);
         Debug.Log("which:" + which);
@@ -42,9 +49,10 @@ public class PuzzleLaunch : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int c = 0;
+        //int c = 0;
         Vector3 worldPositionA = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-        if (me.isClicked() && !puzzle.getCd())
+
+        if (me.isClicked() && !puzzle.getCd() && !(PuzzleStats[puzzle.getWhich()].Equals('1')))
         {
             board.SetActive(true);
             rune.GetComponent<SpriteRenderer>().sortingOrder = 4;

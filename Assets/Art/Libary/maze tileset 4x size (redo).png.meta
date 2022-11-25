@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: dfbbde3c681a5244bbb131d56c29c6cd
+guid: 7953a9f5e05e55b43911ddd49c124fe1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -167,13 +167,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dripping stove 4x size_0
+      name: MazeH
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 720
-        height: 180
+        width: 129
+        height: 224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,8 +181,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ed47d1011ef42f42b79d2f19222b49a
-      internalID: 2022273122
+      spriteID: 1f6e354a327a0c14d8ad88bc653008b1
+      internalID: 1357458905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeU
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af2d9976f119c444b6cfa91cf057ca2
+      internalID: -1740950432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeC
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 130
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8bcc603a2b508449fa69f5a7a01db1
+      internalID: -1387246254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeL
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 130
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8984877556a7b5c46bbc09436be81e32
+      internalID: 1114667509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazV
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 130
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b2fa83b1bf212449ea27e3d629edf5
+      internalID: 1536743149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeVC
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 130
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d58535f7d9cf648b2f5d9b2c9e2845
+      internalID: -1694209672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeIB
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 130
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32b7ff0d8270dc4e941f59425b73c02
+      internalID: 4298799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeIT
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 131
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890577f81e717054c99bac5c744188fd
+      internalID: 440316930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MazeT
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 0
+        width: 129
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3315f3bf18062da41877c0f2c6e0c60e
+      internalID: -1773762177
       vertices: []
       indices: 
       edges: []
@@ -190,7 +358,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 19dd8d78620a624429d099897b8ed6fa
+    spriteID: 30391423da203174e8423f4ca30085bc
     internalID: 0
     vertices: []
     indices: 
@@ -198,7 +366,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      dripping stove 4x size_0: 2022273122
+      MazeIB: 4298799
+      MazeC: -1387246254
+      MazeL: 1114667509
+      MazeVC: -1694209672
+      MazeT: -1773762177
+      MazV: 1536743149
+      MazeIT: 440316930
+      MazeU: -1740950432
+      MazeH: 1357458905
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

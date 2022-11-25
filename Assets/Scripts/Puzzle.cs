@@ -12,6 +12,7 @@ namespace Assets.Scripts
         private int[] answers;
         private bool cd = false;
         private int which;
+        private string whichdex = "abc";
         public Puzzle (int[] answers, int which)
         {
             this.answers = answers;
@@ -24,6 +25,10 @@ namespace Assets.Scripts
         public bool getCd()
         {
             return cd;
+        }
+        public int getWhich()
+        {
+            return which;
         }
         public void checkBoard(GameObject temp, GameObject board, GameObject rune)
         {
@@ -49,6 +54,8 @@ namespace Assets.Scripts
             {
                 //Debug.Log("Closed" + which);
                 cd = true;
+                String ne = PlayerPrefs.GetString("PuzzleStats").Replace(whichdex[which], '1'); //Basically PuzzleStats default is abc so it looks at the abc string to see which letter it needs based on which and turns it to one which means its done
+                PlayerPrefs.SetString("PuzzleStats", ne); 
                 board.SetActive(false);
                 rune.SetActive(true);
                 rune.GetComponent<SpriteRenderer>().sortingOrder = 3;

@@ -1,0 +1,198 @@
+2022-11-24 16:59:12.7643 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 16:59:12.8387 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 16:59:29.4006 [DEBUG] Play mode: False
+2022-11-24 16:59:33.8088 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 16:59:33.8953 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:04:35.9567 [DEBUG] Play mode: False
+2022-11-24 17:04:40.6064 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:04:40.6788 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:05:24.1108 [DEBUG] Play mode: False
+2022-11-24 17:05:29.0214 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:05:29.1223 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:05:40.9133 [DEBUG] Play mode: False
+2022-11-24 17:06:51.9282 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:06:52.0282 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:07:36.6733 [DEBUG] Play mode: False
+2022-11-24 17:07:40.9782 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:07:41.0829 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:08:48.0393 [DEBUG] Play mode: False
+2022-11-24 17:09:05.1035 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:09:05.1674 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:09:50.9063 [DEBUG] Play mode: False
+2022-11-24 17:09:56.0609 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:09:56.1359 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:10:55.1628 [DEBUG] Play mode: False
+2022-11-24 17:19:28.2032 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:19:28.2680 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:19:53.7367 [DEBUG] Play mode: False
+2022-11-24 17:25:04.6566 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:25:04.7553 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:25:31.2966 [DEBUG] Play mode: False
+2022-11-24 17:31:58.3457 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 17:31:58.4151 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 17:32:25.8121 [DEBUG] Play mode: False
+2022-11-24 18:02:29.8748 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:07:02.1006 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:07:02.1977 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:07:07.3199 [DEBUG] Play mode: False
+2022-11-24 18:07:28.4756 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:07:28.5596 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:07:40.5745 [DEBUG] Play mode: False
+2022-11-24 18:11:47.6656 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:11:47.7419 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:12:00.6730 [DEBUG] Play mode: False
+2022-11-24 18:12:32.9464 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:12:33.0251 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:13:26.0374 [DEBUG] Play mode: False
+2022-11-24 18:14:37.6985 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:14:37.7734 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:15:06.1847 [DEBUG] Play mode: False
+2022-11-24 18:16:08.9603 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 18:16:09.0283 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 18:17:20.6786 [DEBUG] Play mode: False
+2022-11-24 19:34:19.1574 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 19:34:19.2607 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 19:36:30.4994 [DEBUG] Play mode: False
+2022-11-24 19:36:41.0717 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 19:36:41.1746 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 19:37:38.1296 [DEBUG] Play mode: False
+2022-11-24 19:41:14.9112 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 19:41:15.0809 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 19:41:21.1283 [DEBUG] Play mode: False
+2022-11-24 19:41:25.5912 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 19:41:59.8944 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 19:41:59.9892 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 19:46:43.0328 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:46:44.1167 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:50:23.9108 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:50:40.9532 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:55:08.1071 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:55:32.6683 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:55:50.9501 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 19:55:54.8188 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 20:00:04.2218 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 20:00:06.9443 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-24 21:08:57.6732 [DEBUG] Play mode: False
+2022-11-24 21:09:16.1675 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:09:16.2531 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:09:20.9558 [DEBUG] Play mode: False
+2022-11-24 21:15:20.7957 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:15:20.8783 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:15:52.7261 [DEBUG] Play mode: False
+2022-11-24 21:16:22.3290 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:16:22.4293 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:16:43.0471 [DEBUG] Play mode: False
+2022-11-24 21:18:35.3768 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:18:35.4734 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:18:40.9213 [DEBUG] Play mode: False
+2022-11-24 21:19:55.4776 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:19:55.6525 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:20:31.9658 [DEBUG] Play mode: False
+2022-11-24 21:22:03.8680 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:22:04.1366 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:22:23.5095 [DEBUG] Play mode: False
+2022-11-24 21:23:01.4341 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:23:01.7693 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:23:26.8985 [DEBUG] Play mode: False
+2022-11-24 21:23:52.5384 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:23:52.8049 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:24:03.5735 [DEBUG] Play mode: False
+2022-11-24 21:24:15.5723 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:24:15.8754 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:24:19.4732 [DEBUG] Play mode: False
+2022-11-24 21:24:41.6252 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:24:41.8833 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:25:03.0356 [DEBUG] Play mode: False
+2022-11-24 21:25:42.9073 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:25:43.1141 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:25:58.9574 [DEBUG] Play mode: False
+2022-11-24 21:30:19.4929 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:30:19.6877 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:30:43.9347 [DEBUG] Play mode: False
+2022-11-24 21:39:26.7876 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:40:37.1590 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-24 21:40:40.3527 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:40:40.4419 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:41:19.1448 [DEBUG] Play mode: False
+2022-11-24 21:44:39.9461 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:44:40.0214 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:45:38.6963 [DEBUG] Play mode: False
+2022-11-24 21:47:28.2434 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:48:26.0315 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-24 21:48:29.6177 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:48:29.7105 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:48:42.5221 [DEBUG] Play mode: False
+2022-11-24 21:50:58.8966 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:51:52.9982 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:51:53.0614 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:53:01.9638 [DEBUG] Play mode: False
+2022-11-24 21:54:18.4106 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:54:18.4837 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:54:27.9337 [DEBUG] Play mode: False
+2022-11-24 21:54:55.1855 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 21:54:55.2693 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 21:55:17.8126 [DEBUG] Play mode: False
+2022-11-24 22:04:01.3311 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 22:04:01.4228 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 22:04:27.0481 [DEBUG] Play mode: False
+2022-11-24 22:04:42.4809 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 22:04:42.5589 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 22:05:11.0418 [DEBUG] Play mode: False
+2022-11-24 22:05:16.4250 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 22:05:16.5192 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 22:05:21.9837 [DEBUG] Play mode: False
+2022-11-24 22:10:46.5173 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-24 22:10:46.6069 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-24 22:12:08.4116 [DEBUG] Play mode: False

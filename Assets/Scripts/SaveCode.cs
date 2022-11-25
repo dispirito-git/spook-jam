@@ -36,6 +36,7 @@ public class SaveCode : MonoBehaviour
     {
         PlayerPrefs.SetInt("SavedInteger", intToSave);
         PlayerPrefs.SetInt("numRunes", numRunes);
+
         //PlayerPrefs.SetFloat("SavedFloat", floatToSave);
         //PlayerPrefs.SetString("SavedString", stringToSave);
         PlayerPrefs.Save();
