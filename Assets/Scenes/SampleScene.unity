@@ -2682,7 +2682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 322728590}
   - component: {fileID: 322728589}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4583,7 +4583,7 @@ GameObject:
   - component: {fileID: 517427590}
   - component: {fileID: 517427593}
   - component: {fileID: 517427594}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: radio(animated)_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13355,7 +13355,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342009290}
   - component: {fileID: 1342009289}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13403,8 +13403,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 4
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.33962262, g: 0.33214664, b: 0.33214664, a: 0.6313726}
+  m_Sprite: {fileID: -183906044, guid: e01bea5beb5891144bfa60fb63727ec1, type: 3}
+  m_Color: {r: 0.33962262, g: 0.33214664, b: 0.33214664, a: 0.36862746}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -13422,8 +13422,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1342009288}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.19753087, y: -0.8946986, z: 19.36025}
-  m_LocalScale: {x: 0.4378472, y: 0.21132898, z: 0.26944444}
+  m_LocalPosition: {x: 0.2, y: -0.839, z: 19.36025}
+  m_LocalScale: {x: 0.85975677, y: 0.4149656, z: 0.5290811}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 559221572}
