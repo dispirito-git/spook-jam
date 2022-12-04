@@ -2080,7 +2080,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 236719653}
   m_LocalRotation: {x: -0, y: -0, z: 0.27005818, w: 0.9628441}
-  m_LocalPosition: {x: -1947, y: 1118, z: 0}
+  m_LocalPosition: {x: -1703, y: 958, z: 0}
   m_LocalScale: {x: 167.78937, y: 141.50029, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12791,7 +12791,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!212 &1258084769
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18190,6 +18190,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1756109692}
   - component: {fileID: 1756109691}
+  - component: {fileID: 1756109693}
+  - component: {fileID: 1756109694}
   m_Layer: 8
   m_Name: Book2
   m_TagString: Untagged
@@ -18264,6 +18266,47 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 65
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1756109693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756109690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81649950f66a1e4fbccab3adbad309c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BarkText: {fileID: 1003314803}
+  text: '"Recipes for the modern house wife by Lets Cook Lovecraft"'
+  stop: {fileID: 0}
+--- !u!61 &1756109694
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1756109690}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.35}
+    newSize: {x: 0.48, y: 0.35}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.48, y: 0.35}
+  m_EdgeRadius: 0
 --- !u!4 &1756662938 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5599173251775522127, guid: 591e11ed65e2f814f900d1df3412d9e6, type: 3}
@@ -19880,6 +19923,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1897922772}
   - component: {fileID: 1897922771}
+  - component: {fileID: 1897922774}
+  - component: {fileID: 1897922773}
   m_Layer: 8
   m_Name: Book1 (1)
   m_TagString: Untagged
@@ -19954,6 +19999,47 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 64
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1897922773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897922770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81649950f66a1e4fbccab3adbad309c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BarkText: {fileID: 1003314803}
+  text: '"The Lusty Lovecraftian Maid"'
+  stop: {fileID: 0}
+--- !u!61 &1897922774
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1897922770}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.48, y: 0.36}
+    newSize: {x: 0.48, y: 0.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.48, y: 0.36}
+  m_EdgeRadius: 0
 --- !u!1 &1903983638
 GameObject:
   m_ObjectHideFlags: 0
@@ -22649,6 +22735,8 @@ GameObject:
   m_Component:
   - component: {fileID: 2108701138}
   - component: {fileID: 2108701137}
+  - component: {fileID: 2108701139}
+  - component: {fileID: 2108701140}
   m_Layer: 3
   m_Name: Book0
   m_TagString: Untagged
@@ -22723,6 +22811,47 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 57
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 22.798}
+--- !u!114 &2108701139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2108701136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c81649950f66a1e4fbccab3adbad309c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BarkText: {fileID: 1003314803}
+  text: '"How did this get here?"'
+  stop: {fileID: 0}
+--- !u!61 &2108701140
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2108701136}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0.02, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.49, y: 0.36}
+    newSize: {x: 0.49, y: 0.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.49, y: 0.36}
+  m_EdgeRadius: 0
 --- !u!1001 &2111958606
 PrefabInstance:
   m_ObjectHideFlags: 0
