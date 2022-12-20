@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MtPuzzle.unity
     guid: 57041d0566983ef4c9dd2211de85e130
+  - enabled: 1
+    path: Assets/Loading.unity
+    guid: b57dca2d5d4c38849aa2e3472358b298
   m_configObjects: {}

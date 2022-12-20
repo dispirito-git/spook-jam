@@ -7,11 +7,17 @@ public class BookUpdate : MonoBehaviour
 {
     public GameObject book;
     private InterObj me;
+    private int stat;
     //public GameObject rune;
     // Start is called before the first frame update
     void Start()
     {
+        stat = PlayerPrefs.GetInt("BCaseStat");
         me = new InterObj(transform.gameObject);
+        if (stat == 1)
+        {
+            transform.gameObject.SetActive(false);
+        }
     }
 
     // Update is called once per frame
@@ -20,6 +26,7 @@ public class BookUpdate : MonoBehaviour
         if (book.activeSelf && me.isClicked())
         {
             transform.gameObject.SetActive(false);
+            PlayerPrefs.SetInt("BCaseStat", 1);
             //Debug.Log("Book have");
             /* Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
              Vector2 mousePos2D = new Vector2(mousePos.x, mousePos.y);

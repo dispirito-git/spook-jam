@@ -37,7 +37,7 @@ public class ClickBark : MonoBehaviour
         {
             bark.setActive(true);
             //Debug.Log(Time.time);
-            bark.setT(Time.time + 1.5f);
+            bark.setT(Time.time + 2.5f);
             //Debug.Log("c:" + Time.time + "e:" + bark.getT());
             BarkText.GetComponent<TextMeshProUGUI>().SetText(bark.getText());
             BarkText.SetActive(!BarkText.activeSelf);

@@ -34,6 +34,7 @@ public class SaveCode : MonoBehaviour
     }
     void SaveGame()
     {
+        PlayerPrefs.SetInt("BCaseStat",0);
         PlayerPrefs.SetInt("SavedInteger", intToSave);
         PlayerPrefs.SetInt("numRunes", numRunes);
 

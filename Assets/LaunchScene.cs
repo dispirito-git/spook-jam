@@ -25,7 +25,8 @@ public class LaunchScene : MonoBehaviour
     }
     public void SwitchScene()
     {
-        SceneManager.LoadScene(which);
+        SceneManager.LoadSceneAsync(3);
+        SceneManager.LoadSceneAsync(which);
     }
     
 }
