@@ -1,0 +1,77 @@
+2022-11-23 13:16:08.6793 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 13:18:22.9606 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 13:18:24.1036 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 13:20:53.3481 [DEBUG] Play mode: False
+2022-11-23 20:23:09.0640 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:15:33.5665 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:15:33.6503 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:22:27.3392 [DEBUG] Play mode: False
+2022-11-23 22:23:36.1566 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:23:36.2245 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:24:06.0684 [DEBUG] Play mode: False
+2022-11-23 22:25:11.4912 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:25:11.5618 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:25:22.5203 [DEBUG] Play mode: False
+2022-11-23 22:26:05.1963 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:26:05.2620 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:26:07.2669 [DEBUG] Play mode: False
+2022-11-23 22:26:30.4744 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:26:30.5429 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:27:34.0742 [DEBUG] Play mode: False
+2022-11-23 22:27:58.4894 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:27:58.5537 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:28:00.1629 [DEBUG] Play mode: False
+2022-11-23 22:33:20.4591 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 22:33:20.5262 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 22:33:41.2049 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-23 22:33:41.7249 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-23 22:40:29.2062 [ERROR] IndexOutOfRangeException: Index was outside the bounds of the array.
+updateBigDoor.ChangeSprite () (at Assets/updateBigDoor.cs:91)
+UnityEngine.Events.InvokableCall.Invoke () (at <59e7be63019b4518baaf30c245954236>:0)
+UnityEngine.Events.UnityEvent.Invoke () (at <59e7be63019b4518baaf30c245954236>:0)
+Rune.Update () (at Assets/Rune.cs:32)
+
+2022-11-23 22:40:34.6500 [DEBUG] Play mode: False
+2022-11-23 23:00:32.8146 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:03:09.1809 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:03:26.4588 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:07:26.0818 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:09:24.9516 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:15:58.7186 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:16:50.3281 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:36:55.6075 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:37:13.8277 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-23 23:37:16.5532 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:38:07.2122 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:40:50.3910 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:42:22.8053 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:42:22.8760 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 23:43:32.1439 [DEBUG] Play mode: False
+2022-11-23 23:43:46.6745 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:43:51.1354 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-23 23:43:54.3842 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:43:54.4642 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 23:45:13.4668 [DEBUG] Play mode: False
+2022-11-23 23:46:34.9485 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-23 23:46:35.0183 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-23 23:47:52.4992 [DEBUG] Play mode: False

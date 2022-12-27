@@ -1,0 +1,1512 @@
+2022-11-10 10:03:12.2465 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 10:03:12.3182 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 10:05:36.4847 [DEBUG] Play mode: False
+2022-11-10 11:26:06.8957 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:26:20.2622 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:26:20.3293 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:26:30.4002 [DEBUG] Play mode: False
+2022-11-10 11:31:43.3412 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:31:43.4042 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:32:21.3324 [DEBUG] Play mode: False
+2022-11-10 11:40:01.0697 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:41:52.8250 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:42:01.3805 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:42:01.4445 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:42:12.5662 [DEBUG] Play mode: False
+2022-11-10 11:43:26.0553 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:43:32.1155 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:43:34.8738 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:43:34.9357 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:43:49.7652 [DEBUG] Play mode: False
+2022-11-10 11:43:57.9617 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:43:58.0236 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:44:20.6859 [DEBUG] Play mode: False
+2022-11-10 11:44:42.5082 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:44:48.0013 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:44:48.0622 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:45:08.3212 [DEBUG] Play mode: False
+2022-11-10 11:45:59.1584 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:46:06.2803 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:46:06.3413 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:46:10.2480 [DEBUG] Play mode: False
+2022-11-10 11:46:15.2426 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:46:15.3204 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:46:25.1615 [DEBUG] Play mode: False
+2022-11-10 11:46:48.8160 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:46:55.3526 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:46:55.4246 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:47:08.3392 [DEBUG] Play mode: False
+2022-11-10 11:49:47.0847 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:49:47.1466 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:50:14.8534 [DEBUG] Play mode: False
+2022-11-10 11:50:56.1654 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:51:18.1692 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:51:18.2332 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:51:31.0573 [DEBUG] Play mode: False
+2022-11-10 11:52:47.2144 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:52:52.5117 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:52:52.5837 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:53:00.6901 [DEBUG] Play mode: False
+2022-11-10 11:53:39.5440 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:53:42.1478 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:53:45.6531 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:53:45.7212 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:53:53.6585 [DEBUG] Play mode: False
+2022-11-10 11:54:20.8338 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:54:26.0922 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:54:29.2895 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:54:29.3540 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:54:37.4815 [DEBUG] Play mode: False
+2022-11-10 11:54:52.7213 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:54:55.9598 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:54:59.1311 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:54:59.1968 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:55:10.0624 [DEBUG] Play mode: False
+2022-11-10 11:56:22.7603 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:56:24.1746 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:56:27.3869 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:56:27.4661 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:56:41.7033 [DEBUG] Play mode: False
+2022-11-10 11:57:07.1420 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:57:09.5304 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:57:12.8210 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:57:12.8876 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:57:29.7103 [DEBUG] Play mode: False
+2022-11-10 11:58:48.5818 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:58:57.1299 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 11:59:00.4143 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:59:00.4814 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:59:11.0563 [DEBUG] Play mode: False
+2022-11-10 11:59:42.8148 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:59:49.1848 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 11:59:49.2476 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 11:59:59.3916 [DEBUG] Play mode: False
+2022-11-10 12:00:57.3884 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:01:03.5648 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:01:03.6303 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:01:04.6160 [DEBUG] Play mode: False
+2022-11-10 12:01:09.1824 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:01:09.2512 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:01:17.8625 [DEBUG] Play mode: False
+2022-11-10 12:03:03.5299 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:03:10.5177 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:03:13.9257 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:03:13.9932 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:03:37.5115 [DEBUG] Play mode: False
+2022-11-10 12:04:23.6193 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:04:27.7209 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:04:27.8001 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:04:55.4968 [DEBUG] Play mode: False
+2022-11-10 12:05:59.7376 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:07:25.6027 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:07:28.6416 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:07:31.8689 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:07:35.3738 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:07:35.4440 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:08:21.6333 [DEBUG] Play mode: False
+2022-11-10 12:09:32.2413 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:09:32.3134 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:09:58.6544 [DEBUG] Play mode: False
+2022-11-10 12:12:36.3650 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:12:43.5968 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:12:43.6691 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:13:20.7196 [DEBUG] Play mode: False
+2022-11-10 12:13:34.7251 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:13:38.9084 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:13:38.9868 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:14:07.1870 [DEBUG] Play mode: False
+2022-11-10 12:15:59.4955 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:16:44.9786 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:16:48.0536 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:16:55.3799 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:16:55.4480 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:17:35.3592 [DEBUG] Play mode: False
+2022-11-10 12:18:19.9182 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:18:22.4131 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:18:25.9971 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:18:26.0865 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:19:24.5734 [DEBUG] Play mode: False
+2022-11-10 12:19:53.9473 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:19:59.4070 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:20:03.0113 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:20:03.0812 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:20:17.0513 [DEBUG] Play mode: False
+2022-11-10 12:20:41.5087 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:20:48.9175 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:20:48.9929 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:20:58.5218 [DEBUG] Play mode: False
+2022-11-10 12:21:46.1605 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:21:54.0406 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:21:54.1272 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:22:24.2646 [DEBUG] Play mode: False
+2022-11-10 12:27:14.8016 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:27:14.8711 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:27:43.9854 [DEBUG] Play mode: False
+2022-11-10 12:28:16.6427 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:28:24.7990 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:28:24.8845 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:28:37.8341 [DEBUG] Play mode: False
+2022-11-10 12:29:10.9186 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:29:52.4316 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 12:29:56.0506 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 12:29:56.1185 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 12:30:05.8405 [DEBUG] Play mode: False
+2022-11-10 16:15:34.9246 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 16:15:35.0037 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 16:18:01.3030 [DEBUG] Play mode: False
+2022-11-10 16:18:34.4822 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 16:18:41.8407 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 16:18:46.5688 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 16:18:46.6606 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 16:19:00.4188 [DEBUG] Play mode: False
+2022-11-10 16:19:23.8841 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 16:19:26.3663 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 16:19:30.9465 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 16:19:31.0595 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 16:19:45.2062 [DEBUG] Play mode: False
+2022-11-10 18:28:13.9726 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:28:35.8846 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:28:35.9525 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:29:18.4436 [DEBUG] Play mode: False
+2022-11-10 18:38:19.9290 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:38:20.0147 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:38:25.7277 [DEBUG] Play mode: False
+2022-11-10 18:39:05.7604 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:39:12.8702 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:39:12.9429 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:39:24.8980 [DEBUG] Play mode: False
+2022-11-10 18:39:46.6129 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:39:46.6812 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:40:01.4574 [DEBUG] Play mode: False
+2022-11-10 18:40:34.7705 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:40:41.6399 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:40:41.7058 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:41:10.1226 [DEBUG] Play mode: False
+2022-11-10 18:43:23.0526 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:43:23.0990 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1223 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:43:23.1287 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1637 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1667 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1862 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1912 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.1952 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2002 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2052 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2103 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2153 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2195 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2245 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2292 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2352 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2402 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2443 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2493 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2548 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2594 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2654 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2795 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2855 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2875 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2937 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.2967 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3018 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3058 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3103 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3153 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3203 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3248 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3298 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3342 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3392 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3427 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3478 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3568 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3598 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3628 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3675 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3725 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3765 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3811 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3857 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3902 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3952 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.3992 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4042 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4092 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4133 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4178 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4228 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4278 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4318 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4368 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4409 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4449 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4495 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4535 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4585 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4625 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4670 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4708 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4731 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4741 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4761 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4771 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4791 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4806 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4817 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4836 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4852 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4867 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4885 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4905 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4915 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4936 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4956 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4966 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4986 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.4996 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5016 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5036 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5046 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5066 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5076 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5096 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5116 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5136 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5146 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5166 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5176 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5196 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5216 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5236 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5246 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5266 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5286 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5307 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5327 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5337 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5357 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5377 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5397 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5417 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5437 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5447 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5457 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5482 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5493 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5512 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5532 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5542 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5562 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5582 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5592 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5612 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5629 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5659 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5767 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5867 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5887 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5909 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5939 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5949 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5969 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.5990 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6010 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6021 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6040 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6060 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6080 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6095 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6115 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6135 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6155 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6175 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6195 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6215 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6235 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6251 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6271 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6291 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6309 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6324 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6344 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6364 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6374 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6394 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6415 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6435 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6455 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6475 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6495 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6515 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6535 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6555 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6575 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6585 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.6961 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7028 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7059 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7079 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7094 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7114 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7134 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7144 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7164 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7184 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7194 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7214 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7234 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7244 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7264 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7275 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7284 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7307 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7327 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7337 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7357 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7367 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7387 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7407 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7417 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7438 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7448 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7468 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7488 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7498 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7518 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7538 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7548 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7568 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7588 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7608 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7618 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7639 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7649 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7669 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7689 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7699 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7720 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7740 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7760 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7770 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7790 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7800 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7820 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7830 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7850 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7860 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7910 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7930 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7950 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7960 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.7980 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8000 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8010 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8040 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8055 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8077 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8094 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8109 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8129 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8144 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8164 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8184 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8202 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8209 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8229 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8249 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8259 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8279 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8294 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8314 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8324 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8344 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8354 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8374 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8384 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8404 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8415 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8425 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8445 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8465 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8475 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8495 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8515 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8535 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8545 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8565 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8575 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8585 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8609 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8629 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8649 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8669 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8689 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8709 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8720 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8740 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8750 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8770 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8785 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:23.8870 [ERROR] UnassignedReferenceException: The variable BarkText of ClickBark has not been assigned.
+You probably need to assign the BarkText variable of the ClickBark script in the inspector.
+ClickBark.Update () (at Assets/ClickBark.cs:35)
+
+2022-11-10 18:43:24.4362 [DEBUG] Play mode: False
+2022-11-10 18:44:12.2929 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 18:44:12.3639 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 18:45:39.4364 [DEBUG] Play mode: False
+2022-11-10 19:04:58.1350 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 19:04:58.2075 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 19:06:26.8545 [DEBUG] Play mode: False
+2022-11-10 20:17:34.7573 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:17:34.8277 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:18:23.9568 [DEBUG] Play mode: False
+2022-11-10 20:19:05.4102 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:19:05.5026 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:19:18.2980 [DEBUG] Play mode: False
+2022-11-10 20:22:53.9214 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:22:54.0050 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:22:57.9167 [DEBUG] Play mode: False
+2022-11-10 20:26:18.6110 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:26:18.7214 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:26:40.7791 [DEBUG] Play mode: False
+2022-11-10 20:38:11.7444 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:39:23.5633 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 20:39:27.3681 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:39:27.4358 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:39:29.1448 [DEBUG] Play mode: False
+2022-11-10 20:42:40.9405 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:46:48.5680 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 20:46:51.6769 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:47:02.9186 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 20:47:02.9867 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 20:48:00.7972 [DEBUG] Play mode: False
+2022-11-10 21:23:16.9356 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:23:40.6396 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:23:40.7814 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:23:55.6391 [DEBUG] Play mode: False
+2022-11-10 21:24:15.4218 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:24:18.5277 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 21:24:23.0021 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:24:23.1539 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:25:16.0914 [DEBUG] Play mode: False
+2022-11-10 21:25:37.1052 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:25:44.0087 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:25:44.1007 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:26:18.1672 [DEBUG] Play mode: False
+2022-11-10 21:35:34.3910 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:53:00.4055 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:53:11.4534 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:53:11.5698 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:53:21.8549 [DEBUG] Play mode: False
+2022-11-10 21:53:57.8111 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:54:00.5688 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 21:54:04.5422 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:54:04.6091 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:55:03.9130 [DEBUG] Play mode: False
+2022-11-10 21:55:58.7724 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:56:03.1516 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-10 21:56:07.2537 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 21:56:07.3544 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 21:57:01.0257 [DEBUG] Play mode: False
+2022-11-10 22:15:13.6591 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:15:21.0154 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:15:21.1221 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:16:20.6862 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:16:30.6243 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:16:34.6259 [DEBUG] Play mode: False
+2022-11-10 22:17:42.6158 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:17:42.7264 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:17:47.0443 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:17:58.7656 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:18:03.1292 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:18:05.9737 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:18:22.1530 [ERROR] NullReferenceException: Object reference not set to an instance of an object
+PuzzleLaunch.Update () (at Assets/PuzzleLaunch.cs:37)
+
+2022-11-10 22:18:25.4601 [DEBUG] Play mode: False
+2022-11-10 22:19:42.4445 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:21:49.2033 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:21:49.2719 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:22:30.8398 [DEBUG] Play mode: False
+2022-11-10 22:23:30.1928 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:23:30.3015 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:23:49.8370 [DEBUG] Play mode: False
+2022-11-10 22:24:32.0571 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:24:32.1650 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:24:52.6904 [DEBUG] Play mode: False
+2022-11-10 22:26:41.8690 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:26:41.9510 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:26:54.1459 [DEBUG] Play mode: False
+2022-11-10 22:27:19.1575 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:27:19.2227 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:37:20.7370 [DEBUG] Play mode: False
+2022-11-10 22:41:42.1121 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 22:41:42.2144 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 22:41:52.5987 [DEBUG] Play mode: False
+2022-11-10 23:17:25.8447 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:17:32.5421 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:17:32.6068 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:17:38.6749 [DEBUG] Play mode: False
+2022-11-10 23:17:54.2823 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:17:54.3752 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:18:18.7265 [DEBUG] Play mode: False
+2022-11-10 23:18:55.2160 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:18:55.2926 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:19:08.3414 [DEBUG] Play mode: False
+2022-11-10 23:19:28.5163 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:19:28.5847 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:19:34.4180 [DEBUG] Play mode: False
+2022-11-10 23:20:15.7798 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:20:15.8478 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:20:23.8754 [DEBUG] Play mode: False
+2022-11-10 23:21:04.1378 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:21:04.2166 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:21:19.1459 [DEBUG] Play mode: False
+2022-11-10 23:41:03.1250 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:41:03.2139 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:41:16.0879 [DEBUG] Play mode: False
+2022-11-10 23:58:15.7603 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:58:15.8609 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:58:25.8001 [DEBUG] Play mode: False
+2022-11-10 23:58:51.5341 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:58:51.6012 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:59:12.4405 [DEBUG] Play mode: False
+2022-11-10 23:59:32.0737 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-10 23:59:32.1474 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-10 23:59:36.7423 [DEBUG] Play mode: False

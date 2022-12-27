@@ -1,0 +1,100 @@
+2022-12-10 20:20:23.3136 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:23:25.7169 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:23:34.1134 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:24:55.8655 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:24:55.9593 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:25:02.1244 [DEBUG] Play mode: False
+2022-12-10 20:25:19.0588 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:25:19.1465 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:25:28.5771 [DEBUG] Play mode: False
+2022-12-10 20:25:53.0756 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:25:53.1438 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:26:30.6975 [DEBUG] Play mode: False
+2022-12-10 20:26:52.0432 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:26:52.1274 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:27:09.0989 [DEBUG] Play mode: False
+2022-12-10 20:27:31.2731 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:27:31.3573 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:27:36.0901 [DEBUG] Play mode: False
+2022-12-10 20:27:40.4682 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:27:40.5655 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:27:55.3295 [DEBUG] Play mode: False
+2022-12-10 20:28:27.6625 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:28:33.0433 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:28:33.1349 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:28:38.7463 [DEBUG] Play mode: False
+2022-12-10 20:29:01.3547 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:29:08.2009 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:29:11.5302 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:29:11.6289 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:29:19.2479 [DEBUG] Play mode: False
+2022-12-10 20:31:02.5315 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:31:05.9579 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:31:09.4196 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:31:09.5035 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:31:26.3760 [DEBUG] Play mode: False
+2022-12-10 20:31:30.6050 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:31:30.7069 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:31:34.5030 [DEBUG] Play mode: False
+2022-12-10 20:32:39.2792 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:32:41.4145 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:32:44.7981 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:32:44.9029 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:32:53.9522 [DEBUG] Play mode: False
+2022-12-10 20:35:45.0723 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:35:51.5882 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:35:51.6766 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:36:03.8235 [DEBUG] Play mode: False
+2022-12-10 20:36:57.1430 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:37:00.3358 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:37:03.8978 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:37:03.9816 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:37:12.7765 [DEBUG] Play mode: False
+2022-12-10 20:37:49.6263 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:37:54.4924 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-10 20:37:57.9651 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:37:58.0340 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:38:04.3111 [DEBUG] Play mode: False
+2022-12-10 20:39:02.8008 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:39:08.8648 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:39:08.9391 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:39:16.6962 [DEBUG] Play mode: False
+2022-12-10 20:44:05.6099 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-10 20:44:05.6829 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-10 20:44:07.9796 [DEBUG] Play mode: False

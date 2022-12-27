@@ -1,0 +1,98 @@
+2022-11-14 01:34:48.8458 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 01:34:53.1294 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-14 01:35:05.5354 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 01:35:05.6347 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 01:35:30.6013 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 01:35:33.3878 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 01:35:38.6502 [DEBUG] Play mode: False
+2022-11-14 01:36:49.6569 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 01:36:50.1941 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 01:37:03.4828 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 01:37:03.8300 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 01:37:14.5113 [DEBUG] Play mode: False
+2022-11-14 10:08:06.4444 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:08:06.5987 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:08:47.3853 [DEBUG] Play mode: False
+2022-11-14 10:09:19.0880 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:09:19.1787 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:10:08.4207 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:10:09.0207 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:10:20.5310 [DEBUG] Play mode: False
+2022-11-14 10:10:49.7477 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:10:49.9104 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:12:52.5080 [DEBUG] Play mode: False
+2022-11-14 10:13:43.9833 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:14:01.8730 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-11-14 10:14:15.1756 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:14:15.2777 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:14:37.0651 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:14:38.6846 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:14:52.6520 [DEBUG] Play mode: False
+2022-11-14 10:16:20.2373 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:16:44.5885 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:16:44.6786 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:16:56.5055 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:16:58.5352 [ERROR] ArgumentNullException: Value cannot be null.
+Parameter name: source
+UnityEngine.AudioSource.set_pitch (System.Single value) (at <08a7a0acf3b64305a167698978b914f6>:0)
+Note.Update () (at Assets/Note.cs:55)
+
+2022-11-14 10:17:12.0180 [DEBUG] Play mode: False
+2022-11-14 10:18:12.2803 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:18:12.3739 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:18:29.1558 [DEBUG] Play mode: False
+2022-11-14 10:20:11.5785 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:20:11.6703 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:20:40.1590 [DEBUG] Play mode: False
+2022-11-14 10:20:55.2088 [DEBUG] Scene Fusion version 1.9.3-0
+2022-11-14 10:20:55.3660 [DEBUG] Play mode: True, sync in play mode: False
+2022-11-14 10:21:18.3083 [DEBUG] Play mode: False
+2022-11-14 10:32:12.1595 [DEBUG] Scene Fusion version 1.9.3-0

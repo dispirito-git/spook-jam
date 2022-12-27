@@ -1,0 +1,34 @@
+2022-12-19 16:22:02.2111 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:22:33.2484 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:22:55.6149 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:22:55.6999 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:23:39.5905 [DEBUG] Play mode: False
+2022-12-19 16:24:00.2583 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:24:08.3459 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:24:08.4335 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:24:22.1719 [DEBUG] Play mode: False
+2022-12-19 16:34:46.7200 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:35:11.0854 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:35:11.1931 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:35:20.8173 [DEBUG] Play mode: False
+2022-12-19 16:38:06.0948 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:38:11.4731 [ERROR] NullReferenceException: SerializedObject of SerializedProperty has been Disposed.
+UnityEditor.SerializedProperty.get_stringValue () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEditor.GameObjectInspector.OnDisable () (at <57f7047e30904c739d3a054a0390f144>:0)
+UnityEngine.Object:DestroyImmediate(Object)
+KS.SceneFusion.Client.Editor.OverrideEditor:OnDisable()
+KS.SceneFusion.Client.Editor.GameObjectEditor:OnDisable()
+
+2022-12-19 16:38:15.7485 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:38:15.8454 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:38:36.7790 [DEBUG] Play mode: False
+2022-12-19 16:38:49.5766 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:39:05.6748 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:39:05.7635 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:39:28.8339 [DEBUG] Play mode: False
+2022-12-19 16:40:49.5197 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:40:49.6235 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:40:54.7217 [DEBUG] Play mode: False
+2022-12-19 16:41:10.2844 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-19 16:41:10.3842 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-19 16:41:38.0271 [DEBUG] Play mode: False

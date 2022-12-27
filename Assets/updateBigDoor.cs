@@ -1,10 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 
 public class updateBigDoor : MonoBehaviour
 {
+    public GameObject r0;
+    public GameObject r1;
+    private bool rs= true;
+    private bool r1s = true;
+    private bool r2s = true;
+    private bool r3s = true;
+    public GameObject r2;
+    public GameObject r3;
+    //public GameObject r4;
+
+
     //to represent num of runes we have
     [SerializeField] private int numOfRunes;
 
@@ -14,13 +25,37 @@ public class updateBigDoor : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        numOfRunes = 0;
+        numOfRunes = PlayerPrefs.GetInt("numRunes");
         spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
+        spriteRenderer.sprite = spriteArray[numOfRunes];
+
     }
 
     // Update is called once per frame
     void Update()
     {
+        /*
+        if (!r0.activeSelf && rs)
+        {
+            numOfRunes++;
+            rs = !rs;
+        }
+        if (!r1.activeSelf && r1s)
+        {
+            numOfRunes++;
+            r1s = !r1s;
+        }
+        if (!r2.activeSelf && r2s)
+        {
+            numOfRunes++;
+            r2s = !r2s;
+        }
+        if (!r3.activeSelf && r3s)
+        {
+            numOfRunes++;
+            r3s = !r3s;
+        }
+
         switch (numOfRunes)
         {
             case 0:
@@ -31,7 +66,7 @@ public class updateBigDoor : MonoBehaviour
                 break;
             case 2:
                 ChangeSprite(2);
-                break;
+                break;s
             case 3:
                 ChangeSprite(3);
                 break;
@@ -40,11 +75,19 @@ public class updateBigDoor : MonoBehaviour
                 break;
             default:
                 break;
+        }*/
+        if (numOfRunes == 4)
+        {
+            //Debug.Log("Unlocked");
+            transform.GetComponent<ClickBark>().enabled = false;
         }
     }
 
-    void ChangeSprite(int i)
+    public void ChangeSprite()
     {
-        spriteRenderer.sprite = spriteArray[i];
+        numOfRunes++;
+
+        PlayerPrefs.SetInt("numRunes", numOfRunes);
+        spriteRenderer.sprite = spriteArray[numOfRunes];
     }
 }
