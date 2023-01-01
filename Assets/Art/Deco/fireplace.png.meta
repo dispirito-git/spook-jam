@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ea0deead6a1cc41468ba5879153d2f85
+guid: fb9de4aab5f2258499f3fe8cc323ad00
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -165,18 +165,62 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: fireplace_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 104
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0ea1d2ddc57c04984c48206aca37ea
+      internalID: -1905248005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireplace_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 92
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42471af59b67eb845ad9d7807986b9b9
+      internalID: -481458901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: fb04e0d586e4bff4f9f1661da0e1134e
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fireplace_1: -481458901
+      fireplace_0: -1905248005
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

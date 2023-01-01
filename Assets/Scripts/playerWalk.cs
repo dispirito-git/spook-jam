@@ -38,7 +38,7 @@ public class playerWalk : MonoBehaviour
             animator.SetBool("walking", _IsWalking);
             _MoveInputH = Input.GetAxisRaw("Horizontal");
             _RigidBody.velocity = new Vector2(_MoveInputH * Speed, 0); // updates horizontal movement based on inpu
-    }
+    } 
 
     
     /*
