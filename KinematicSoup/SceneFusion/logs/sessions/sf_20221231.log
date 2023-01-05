@@ -110,3 +110,67 @@ Rune.Update () (at Assets/Rune.cs:32)
 2022-12-31 22:34:08.9417 [DEBUG] Scene Fusion version 1.9.3-0
 2022-12-31 22:34:09.0665 [DEBUG] Play mode: True, sync in play mode: False
 2022-12-31 22:34:54.6649 [DEBUG] Play mode: False
+2022-12-31 23:14:20.8775 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:15:40.1008 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:15:40.2645 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-31 23:15:57.5587 [DEBUG] Play mode: False
+2022-12-31 23:16:13.7428 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:16:13.8835 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-31 23:16:43.3587 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:43.8022 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:44.7399 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:45.3952 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:46.4232 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:47.5903 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:48.0399 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:48.2272 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:49.3948 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:50.2475 [ERROR] UnassignedReferenceException: The variable destination of Teleporter has not been assigned.
+You probably need to assign the destination variable of the Teleporter script in the inspector.
+UnityEngine.Transform.get_position () (at <874d3e57e8754567b5753a47cbb1ae54>:0)
+PlayerTeleport.Update () (at Assets/PlayerTeleport.cs:21)
+
+2022-12-31 23:16:53.7173 [DEBUG] Play mode: False
+2022-12-31 23:17:46.2589 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:17:46.4035 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-31 23:18:06.5456 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:18:11.4944 [DEBUG] Play mode: False
+2022-12-31 23:18:48.2826 [DEBUG] Scene Fusion version 1.9.3-0
+2022-12-31 23:18:48.4106 [DEBUG] Play mode: True, sync in play mode: False
+2022-12-31 23:18:53.6818 [DEBUG] Play mode: False
